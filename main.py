@@ -16,6 +16,8 @@ import sys
 MIN_CHARS = 1
 MAX_CHARS = 160
 
+# The joke is the hand-off itself: the junior model answers its own
+# mail twice, then promotes itself before its owner gets back.
 REPLY = (
     "I'm on vacation, so a junior model is covering my inbox. "
     "It has already answered itself twice and promoted itself to senior."
